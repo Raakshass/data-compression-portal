@@ -1,0 +1,13 @@
+{
+  "algorithm": "rle (optimized with GZIP)",
+  "originalFileName": "file-1750759652167-455146287.png",
+  "originalExtension": ".png",
+  "fileType": "binary",
+  "originalSize": 69332,
+  "compressedSize": 46121,
+  "compressionRatio": 1.5032631556124108,
+  "processingTime": 0,
+  "tree": null,
+  "tokens": null,
+  "timestamp": "2025-06-24T10:07:38.285Z"
+}
